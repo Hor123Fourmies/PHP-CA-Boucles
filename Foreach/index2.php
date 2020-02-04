@@ -41,7 +41,7 @@ echo "<br><br>";
 
 $nouvelEleve = array(array("Nom"=>"Haddock","Prenom"=>"Capitaine"));
 
-$college["troisieme"]=$nouvelEleve;
+$college["Troisieme"]=$nouvelEleve;
 
 
 foreach ($college as $classe => $eleve) {
